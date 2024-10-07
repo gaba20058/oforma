@@ -1,0 +1,13 @@
+img{
+    width: 250px;
+}
+table, td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100vw;
+    text-align: center;
+}
+span{
+    margin-left: 50px;
+    margin-right: 600px;
+}
